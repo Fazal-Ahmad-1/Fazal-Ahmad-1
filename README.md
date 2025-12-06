@@ -33,10 +33,15 @@ I’m passionate about **building scalable backend systems** and crafting **open
 ---
 
 ### 🧩 Projects
-- 🗒️ **Journal Web App** — A personal journaling system built with Spring Boot and SQL  
-- 🔧 **Open Source Tools** — Various developer utilities and backend components  
-- 🎨 **UI Concepts** — Design prototypes crafted in Figma for intuitive user flows  
+- 🗒️ **Journal Web App**
+A personal journaling platform built with Spring Boot + SQL, designed for secure note-taking and daily reflection.
 
+- 💸 **Expense Tracker App**
+A full-stack financial tracking application using Spring Boot & React.
+Features include expense CRUD operations, smart monthly analytics, a modern 3D dark UI, and full cloud deployment on Render (Backend) and Vercel (Frontend).
+
+- 📝 **Quiz App**
+An interactive quiz platform powered by Spring Boot + React, supporting question banks, quiz attempts, scoring logic, and real-time evaluation.
 ---
 
 ### 🏆 Badges & Highlights
