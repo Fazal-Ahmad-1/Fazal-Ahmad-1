@@ -51,7 +51,7 @@ I’m passionate about **building scalable backend systems** and crafting **open
 ### 🌐 Let's Connect
 <p align="center">
   <a href="mailto:fazalahmadofc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/FAZALAHMAD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Fazal-Ahmad-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
