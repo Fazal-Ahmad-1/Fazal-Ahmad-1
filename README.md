@@ -1,65 +1,38 @@
-# Hey there! 👋 I'm Fazal Ahmad
+# 💫 Hi 👋, I'm Fazal Ahmad
+**Java Developer | REST APIs • Spring Boot • SQL**
 
-🎓 **Undergraduate Engineer** • 💻 **Java | SQL | Figma | Spring Boot**  
-I’m passionate about **building scalable backend systems** and crafting **open-source developer tools** that make coding faster, cleaner, and more enjoyable.
+Email Me 👉 ✉️ **fazalahmadofc@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
----
+- 🔭 **I’m currently working on:** AI Based Fake news Detection system using pre-trained AI models
+- 🌱 **I’m currently learning:** Spring Security
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** fazalahmadofc@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** There are only 10 types of people in the world, one who know binary and one who don't
 
-### 🚀 About Me
-- 🌱 Currently working on a **Journal Web App** using **Spring Boot**
-- 💡 I enjoy solving complex backend problems and optimizing system performance
-- 🛠️ Exploring ways to bridge **UI design (Figma)** with **robust backend logic**
-- 🤝 Open to collaboration on backend and open-source projects
-- ✉️ Reach me at **[fazalahmadofc@gmail.com](mailto:fazalahmadofc@gmail.com)**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazal_ahmad_1_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazal-ahmad-1863532b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalahmadofc@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fazal-Ahmad-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Fazal-Ahmad-1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fazal-Ahmad-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🧰 Tech Stack
-| Category | Tools |
-|-----------|--------|
-| Languages | Java, SQL |
-| Frameworks | Spring Boot |
-| Design | Figma |
-| Others | REST APIs, Git, GitHub, Maven |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fazal-Ahmad-1&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
----
+<!-- Snake Game Repo View -->
 
-### 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAZALAHMAD&show_icons=true&theme=tokyonight" alt="Fazal's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAZALAHMAD&theme=tokyonight" alt="Fazal's GitHub streak" height="165">
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
----
-
-### 🧩 Projects
-- 🗒️ **Journal Web App**
-A personal journaling platform built with Spring Boot + SQL, designed for secure note-taking and daily reflection.
-
-- 💸 **Expense Tracker App**
-A full-stack financial tracking application using Spring Boot & React.
-Features include expense CRUD operations, smart monthly analytics, a modern 3D dark UI, and full cloud deployment on Render (Backend) and Vercel (Frontend).
-
-- 📝 **Quiz App**
-An interactive quiz platform powered by Spring Boot + React, supporting question banks, quiz attempts, scoring logic, and real-time evaluation.
----
-
-### 🏆 Badges & Highlights
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Fazal-Ahmad-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="mailto:fazalahmadofc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Fazal-Ahmad-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-⭐ _“Code is like humor. When you have to explain it, it’s bad.”_  
-Thanks for stopping by — feel free to connect or check out my projects!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
